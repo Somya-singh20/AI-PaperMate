@@ -1,0 +1,4 @@
+project_id = "txmrpdakjonvktjcqawj"
+
+[functions.summarize-paper]
+verify_jwt = false
